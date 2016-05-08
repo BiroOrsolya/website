@@ -42,6 +42,15 @@ nav li{
 	padding: 0 10px;
 }
 
+#home, #about, #play, #contact{
+	color: #83509F;
+	text-shadow:
+	-1px -1px 0 #BEC2C3,
+	1px -1px 0 #BEC2C3,
+	-1px 1px 0 #BEC2C3,
+	1px 1px 0 #BEC2C3;
+}
+
 nav ul{
 	display: inline;
 }

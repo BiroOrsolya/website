@@ -1,0 +1,87 @@
+body {
+	background-color: #FFC261;
+	font-family: fantasy;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;	
+}
+
+h2{
+	color: #EE4043;
+	text-shadow: 
+	-1px -1px 0 #c90b0e,
+	1px -1px 0 #c90b0e,
+	-1px 1px 0 #c90b0e,
+	1px 1px 0 #c90b0e;
+}
+
+p{
+	color: #7AD965;
+	text-shadow:
+	-1px -1px 0 #2D7B3D,
+	1px -1px 0 #2D7B3D,
+	-1px 1px 0 #2D7B3D,
+	1px 1px 0 #2D7B3D;
+	text-align: center;
+}
+#game{
+	color: #7AD965;
+	text-shadow:
+	-1px -1px 0 #2D7B3D,
+	1px -1px 0 #2D7B3D,
+	-1px 1px 0 #2D7B3D,
+	1px 1px 0 #2D7B3D;
+}
+
+nav {
+	background-color: #F26F31;
+}
+
+nav li{
+	color: #FDF6AF;
+	text-shadow:
+	-1px -1px 0 #EFB05D,
+	1px -1px 0 #EFB05D,
+	-1px 1px 0 #EFB05D,
+	1px 1px 0 #EFB05D;
+	display: inline;
+	margin: 0;
+	padding: 0 10px;
+}
+
+#home, #about, #play, #contact{
+	color: #FDF6AF;
+	text-shadow:
+	-1px -1px 0 #EFB05D,
+	1px -1px 0 #EFB05D,
+	-1px 1px 0 #EFB05D,
+	1px 1px 0 #EFB05D;
+}
+
+nav ul{
+	display: inline;
+}
+
+.content{
+	position: relative;
+}
+
+
+	
+.pony{
+	width: 35%;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	
+}
+	
+.footer{
+	display: inline;
+	position: fixed;
+	bottom: 0;	
+}
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
